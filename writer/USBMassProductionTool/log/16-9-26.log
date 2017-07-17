@@ -1,0 +1,46 @@
+
+< 16-09-26 11:46:56 >==============================================
+Device is Inserted On Driver : [Hub7 Port2] [VER:0, SN:8&38cb7776&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: G:\2651_FCC\test\MIPI\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2016/09/26 AM 11:47:00:36
+   Step 2 - End Time : 2016/09/26 AM 11:47:00:42
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2016/09/26 AM 11:47:00:43
+   Step 3 - End Time : 2016/09/26 AM 11:47:00:43
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2016/09/26 AM 11:47:00:43
+   Step 4 - End Time : 2016/09/26 AM 11:47:10:808
+   Step 4 ok! Spent Time: 10.765s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: G:\2651_FCC\test\MIPI/program/tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2016/09/26 AM 11:47:10:809
+   Step 5 - End Time : 2016/09/26 AM 11:47:13:623
+   Step 5 ok! Spent Time: 2.813s
+   USB Task Finished! Spent Time: 13.594s
+   Device is Pullouted.
+
+< 16-09-26 12:01:33 >==============================================
+Device is Inserted On Driver : [Hub7 Port2] [VER:0, SN:8&38cb7776&0#{53]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: G:\2651_FCC\test\MIPI\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2016/09/26 PM 12:01:36:250
+   Step 2 - End Time : 2016/09/26 PM 12:01:36:256
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2016/09/26 PM 12:01:36:257
+   Step 3 - End Time : 2016/09/26 PM 12:01:36:257
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2016/09/26 PM 12:01:36:257
+   Step 4 - End Time : 2016/09/26 PM 12:01:46:816
+   Step 4 ok! Spent Time: 10.546s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: G:\2651_FCC\test\MIPI/program/tools/gpcv1248_spifc_pack_/cb_result.bin
+   Step 5 - Start Time : 2016/09/26 PM 12:01:46:817
+   Step 5 - End Time : 2016/09/26 PM 12:01:49:629
+   Step 5 ok! Spent Time: 2.813s
+   USB Task Finished! Spent Time: 13.375s
+   Device is Pullouted.

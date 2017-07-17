@@ -1,0 +1,4 @@
+---- ap_peripheral_usbd_plug_out_exe Matches (3 in 1 files) ----
+ap_peripheral_handling.c (F:\work\item\2651\program\application\task_peripheral_handling\src) line 118 : void ap_peripheral_usbd_plug_out_exe(INT16U *tick_cnt_ptr);
+ap_peripheral_adaptor_out_judge in ap_peripheral_handling.c (F:\work\item\2651\program\application\task_peripheral_handling\src) :                 ap_peripheral_usbd_plug_out_exe(&usbd_cnt);
+ap_peripheral_handling.c (F:\work\item\2651\program\application\task_peripheral_handling\src) line 1058 : void ap_peripheral_usbd_plug_out_exe(INT16U *tick_cnt_ptr)

@@ -1,0 +1,77 @@
+
+< 17-05-31 09:07:56 >==============================================
+Device is Inserted On Driver : [Hub1 Port8] [VER:0, SN:6&3aa517e&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\2651\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/05/31 AM 09:08:00:136
+   Step 2 - End Time : 2017/05/31 AM 09:08:00:143
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/05/31 AM 09:08:00:145
+   Step 3 - End Time : 2017/05/31 AM 09:08:00:146
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/05/31 AM 09:08:00:146
+   Step 4 - End Time : 2017/05/31 AM 09:08:11:407
+   Step 4 ok! Spent Time: 11.263s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\2651\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2017/05/31 AM 09:08:11:407
+   Step 5 - End Time : 2017/05/31 AM 09:08:14:291
+   Step 5 ok! Spent Time: 2.886s
+   USB Task Finished! Spent Time: 14.165s
+   Device is Pullouted.
+
+< 17-05-31 09:42:38 >==============================================
+Device is Inserted On Driver : [Hub1 Port8] [VER:0, SN:6&3aa517e&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\2651\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/05/31 AM 09:42:43:89
+   Step 2 - End Time : 2017/05/31 AM 09:42:43:96
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/05/31 AM 09:42:43:96
+   Step 3 - End Time : 2017/05/31 AM 09:42:43:97
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/05/31 AM 09:42:43:97
+   Step 4 - End Time : 2017/05/31 AM 09:42:54:292
+   Step 4 ok! Spent Time: 11.201s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\2651\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2017/05/31 AM 09:42:54:292
+   Step 5 - End Time : 2017/05/31 AM 09:42:57:187
+   Step 5 ok! Spent Time: 2.901s
+   USB Task Finished! Spent Time: 14.102s
+   Device is Pullouted.
+
+< 17-05-31 09:48:00 >==============================================
+Device is Inserted On Driver : [Hub1 Port8] [VER:0, SN:6&3aa517e&0#{53f]
+   Device is Pullouted.
+
+< 17-05-31 09:48:01 >==============================================
+Device is Inserted On Driver : [Hub1 Port8] [VER:0, SN:6&3aa517e&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: F:\work\item\2651\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2017/05/31 AM 09:48:05:185
+   Step 2 - End Time : 2017/05/31 AM 09:48:05:192
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2017/05/31 AM 09:48:05:192
+   Step 3 - End Time : 2017/05/31 AM 09:48:05:193
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2017/05/31 AM 09:48:05:193
+   Step 4 - End Time : 2017/05/31 AM 09:48:16:287
+   Step 4 ok! Spent Time: 11.107s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: F:\work\item\2651\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2017/05/31 AM 09:48:16:288
+   Step 5 - End Time : 2017/05/31 AM 09:48:19:93
+   Step 5 ok! Spent Time: 2.808s
+   USB Task Finished! Spent Time: 13.915s
+   Device is Pullouted.
+
+< 17-05-31 09:48:23 >==============================================
+Device is Inserted On Driver : [Hub1 Port8] [VER:0, SN:6&3aa517e&0#{53f]
+   Device is Pullouted.

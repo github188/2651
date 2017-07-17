@@ -1,0 +1,4 @@
+---- ap_peripheral_init Matches (3 in 3 files) ----
+ap_peripheral_handling.h (F:\work\item\2651\backup\compare\program\application\task_peripheral_handling\inc) line 16 : extern void ap_peripheral_init(void);
+task_peripheral_handling_init in task_peripheral_handling.c (F:\work\item\2651\backup\compare\program\application\task_peripheral_handling\src) : 	ap_peripheral_init();
+task_peripheral_handling.h (F:\work\item\2651\backup\compare\program\application\task_peripheral_handling\inc) line 26 : extern void ap_peripheral_init(void);

@@ -1,0 +1,154 @@
+
+< 15-01-20 17:14:52 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 05:14:56:995
+   Step 2 - End Time : 2015/01/20 PM 05:14:57:01
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 05:14:57:01
+   Step 3 - End Time : 2015/01/20 PM 05:14:57:01
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 05:14:57:02
+   Step 4 - End Time : 2015/01/20 PM 05:15:02:08
+   Step 4 ok! Spent Time: 5.8s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 05:15:02:09
+   Step 5 - End Time : 2015/01/20 PM 05:15:05:834
+   Step 5 ok! Spent Time: 3.822s
+   USB Task Finished! Spent Time: 8.846s
+
+< 15-01-20 17:22:46 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 05:22:50:177
+   Step 2 - End Time : 2015/01/20 PM 05:22:50:193
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 05:22:50:193
+   Step 3 - End Time : 2015/01/20 PM 05:22:50:193
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 05:22:50:193
+   Step 4 - End Time : 2015/01/20 PM 05:22:55:75
+   Step 4 ok! Spent Time: 4.883s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 05:22:55:75
+   Step 5 - End Time : 2015/01/20 PM 05:22:58:944
+   Step 5 ok! Spent Time: 3.869s
+   USB Task Finished! Spent Time: 8.768s
+
+< 15-01-20 17:28:43 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 05:28:47:607
+   Step 2 - End Time : 2015/01/20 PM 05:28:47:622
+   Step 2 ok! Spent Time: 0.15s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 05:28:47:622
+   Step 3 - End Time : 2015/01/20 PM 05:28:47:622
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 05:28:47:622
+   Step 4 - End Time : 2015/01/20 PM 05:28:52:521
+   Step 4 ok! Spent Time: 4.899s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 05:28:52:521
+   Step 5 - End Time : 2015/01/20 PM 05:28:56:405
+   Step 5 ok! Spent Time: 3.884s
+   USB Task Finished! Spent Time: 8.798s
+
+< 15-01-20 17:33:00 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 05:33:05:218
+   Step 2 - End Time : 2015/01/20 PM 05:33:05:224
+   Step 2 ok! Spent Time: 0.16s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 05:33:05:224
+   Step 3 - End Time : 2015/01/20 PM 05:33:05:224
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 05:33:05:224
+   Step 4 - End Time : 2015/01/20 PM 05:33:10:69
+   Step 4 ok! Spent Time: 4.836s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 05:33:10:69
+   Step 5 - End Time : 2015/01/20 PM 05:33:13:919
+   Step 5 ok! Spent Time: 3.853s
+   USB Task Finished! Spent Time: 8.705s
+
+< 15-01-20 18:58:07 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 06:58:10:430
+   Step 2 - End Time : 2015/01/20 PM 06:58:10:430
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 06:58:10:430
+   Step 3 - End Time : 2015/01/20 PM 06:58:10:430
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 06:58:10:430
+   Step 4 - End Time : 2015/01/20 PM 06:58:15:220
+   Step 4 ok! Spent Time: 4.789s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 06:58:15:220
+   Step 5 - End Time : 2015/01/20 PM 06:58:19:91
+   Step 5 ok! Spent Time: 3.885s
+   USB Task Finished! Spent Time: 8.674s
+
+< 15-01-20 19:09:19 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 07:09:24:79
+   Step 2 - End Time : 2015/01/20 PM 07:09:24:86
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 07:09:24:86
+   Step 3 - End Time : 2015/01/20 PM 07:09:24:87
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 07:09:24:87
+   Step 4 - End Time : 2015/01/20 PM 07:09:28:901
+   Step 4 ok! Spent Time: 4.821s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 07:09:28:901
+   Step 5 - End Time : 2015/01/20 PM 07:09:32:770
+   Step 5 ok! Spent Time: 3.868s
+   USB Task Finished! Spent Time: 8.689s
+
+< 15-01-20 19:23:29 >==============================================
+Device is Inserted On Driver : [Hub5 Port4] [VER:0, SN:8&1fef523&0#{53f]
+   Begin the USB Task...
+   Step 1 disable...
+   Begin Step 2... Action: Write, Chip: RAM, Address: 0xF8002000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/code/gp15b_ispbin.bin
+   Step 2 - Start Time : 2015/01/20 PM 07:23:33:426
+   Step 2 - End Time : 2015/01/20 PM 07:23:33:433
+   Step 2 ok! Spent Time: 0.0s
+   Begin Step 3... Action: Jump to Function, Chip: RAM, Address: 0xF8002000
+   Step 3 - Start Time : 2015/01/20 PM 07:23:33:434
+   Step 3 - End Time : 2015/01/20 PM 07:23:33:434
+   Step 3 ok! Spent Time: 0.0s
+   Begin Step 4... Action: Erase, Chip: SPI Nor Flash, Address: 0x0000, Length: 40
+   Step 4 - Start Time : 2015/01/20 PM 07:23:33:435
+   Step 4 - End Time : 2015/01/20 PM 07:23:38:244
+   Step 4 ok! Spent Time: 4.820s
+   Begin Step 5... Action: Write, Chip: SPI Nor Flash, Address: 0x0000, File: D:\works\MINI DV\Data\secrecy\PRO\JH26XX\JH2602\Code\v001\writer\USBMassProductionTool/output/cb_result.bin
+   Step 5 - Start Time : 2015/01/20 PM 07:23:38:244
+   Step 5 - End Time : 2015/01/20 PM 07:23:42:96
+   Step 5 ok! Spent Time: 3.838s
+   USB Task Finished! Spent Time: 8.658s
